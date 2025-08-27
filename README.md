@@ -1,5 +1,6 @@
 # Hello! 👋 Welcome to my github profile!
 ## My name is Fernanda (or just Fe ☺️)
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/38324c3c-27ad-4e53-9c09-95a1e1c6b741" />
 
 - 👩‍💻 I am a third year IT student at KPU in Canada,
 - 📚 I'm currently diving into JavaSccript and php,
