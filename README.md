@@ -3,7 +3,7 @@
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/38324c3c-27ad-4e53-9c09-95a1e1c6b741" />
 
 - 👩‍💻 I am a third year IT student at KPU in Canada,
-- 📚 I'm currently diving into JavaSccript and php,
+- 📚 I'm currently diving into JavaScript and php,
 - 💡 I have experience with C++, Java, HTML, CSS, mySQL.
 - 🎬 🧩 Outside of tech, my hobbies are crocheting, doing puzzles, and watching movies/tv shows.
 
